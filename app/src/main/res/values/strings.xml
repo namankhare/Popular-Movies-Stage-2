@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="apiv3">Your API Key Here</string>
+
+    <string name="popular">Popular Movies</string>
+    <string name="top_rated">Top Rated Movies</string>
+    <string name="menu_option">Options</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_title">Select sorting type</string>
+    <string name="movie_poster">This is a movie poster</string>
+
+    -
+    <string-array name="sort_types">
+        <item>Sort by Most Popular</item>
+        <item>Sort by Top Rating</item>
+        <item>Favourite Movies</item>
+
+    </string-array>
+
+
+    <string name = "most_popular">Sort by Most Popular</string>
+    <string name = "toprated">Sort by Top Rating</string>
+    <string name = "favorite">Favourite Movies</string>
+
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="loading">Loading</string>
+</resources>
